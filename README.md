@@ -15,7 +15,7 @@ As a replacement, I'm using the ESP32 built-in time class that offers a local ti
 
 Please change the timezone string to your local place, see a complete list here: https://github.com/nayarsystems/posix_tz_db/blob/master/zones.csv.
 
-As the project was developed by Stefan Maetschke, all credits go to him. I just made the changes to get a working clock.
+As the **project was developed by Stefan Maetschke**, all credits go to him. I just made the changes to get a working clock.
   
 (2026) AndroidCrypto (Michael), https://medium.com/@androidcrypto
 
